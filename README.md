@@ -1,5 +1,9 @@
 # discordBotPresetPublic
 
+(Currently the main zip file is located on a Google Drive download link until I can get a compatible folder for Github.)
+
+https://drive.google.com/file/d/1OWie9cIQ2WXp_fI5frC6gYkhAvdTV0hZ/view?usp=sharing
+
 What Is This?
 
 This is one of my modified Red Bot Applications made for my commonly used discord bots. I do not own the original RED application that has made this setup possible found in this repository, most of it is using third party cogs alongside my own few cogs to apply some special communication features. Visit cogs.red for more information regarding RED. Feel free to use and modify this as much as you please without my permission or credit.
